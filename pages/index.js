@@ -26,7 +26,7 @@ export default function Home() {
       <Head>
         <title>Portfolio - Mohamed Laaguili</title>
         <meta name="description" content="Mohamed Laaguili's professional portfolio showcasing web development and design expertise." />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="./favicon.ico" />
       </Head>
       <main className="bg-white px-8 dark:bg-gray-900 md:px-16 lg:px-32">
         <section className="min-h-screen">
